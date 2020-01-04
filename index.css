@@ -1,11 +1,9 @@
 body{
     background-color:#091933;
 }
-h1{
+.main{
     color:#ffffff;
     font-family:Tahoma;
     font-size:50px;
     text-align: center;
-    width: 100vw;
-    height: 100vh;
 }
