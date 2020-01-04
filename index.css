@@ -4,4 +4,6 @@ body{
 h1{
     color:#ffffff;
     font-family:arial;
+    font-size:50px;
+    text-align: center;
 }
