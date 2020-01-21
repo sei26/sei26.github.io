@@ -10,5 +10,5 @@ body {
 }
 .twitter_img{
     border-radius: 50%;
-    text-align: center;
+    max-width: 50%
 }
