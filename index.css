@@ -2,7 +2,7 @@ body {
     background-color:#fff;
 } 
 .myname {
-    height: 150px;
+    height: 200px;
 }
 .myname h1 {
     color:#000;
@@ -12,7 +12,7 @@ body {
     position: relative;
 }
 .about{
-    color: #000;
+    background-color: #000;
     border-radius: 10px;
     height: 100px;
 }
