@@ -1,12 +1,12 @@
 body {
+    font-family: 'Hiragino Kaku Gothic ProN W3', sans-serif;
     background-color:#fff;
 } 
 .myname {
-    height: 200px;
+    padding: 180px 0 100px 0;
 }
 .myname h1 {
     color:#000;
-    font-family:Tahoma;
     font-size:50px;
     text-align: center;
     position: relative;
@@ -14,18 +14,16 @@ body {
 .about{
     background-color: #000;
     border-radius: 10px;
-    height: 100px;
+    padding: 180px 0 100px 0;
 }
 .about h2{
     color:#000;
-    font-family:Tahoma;
     font-size:25px;
     text-align: center;
     position: relative;
 }
 .about h3{
     color: #fff;
-    font-family:Tahoma;
     font-size:15px;
     text-align: left;
 }
