@@ -2,7 +2,7 @@ body {
     background-color:#fff;
 } 
 .myname {
-    height: 50px;
+    height: 150px;
 }
 .myname h1 {
     color:#000;
@@ -11,8 +11,13 @@ body {
     text-align: center;
     position: relative;
 }
-.about h3{
+.about{
     color: #000;
+    border-radius: 10px;
+    height: 100px;
+}
+.about h3{
+    color: #fff;
     font-family:Tahoma;
     font-size:25px;
     text-align: left;
