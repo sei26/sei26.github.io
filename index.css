@@ -1,6 +1,9 @@
 body {
     background-color:#fff;
 } 
+.myname {
+    height: 50px;
+}
 .myname h1 {
     color:#000;
     font-family:Tahoma;
@@ -8,7 +11,9 @@ body {
     text-align: center;
     position: relative;
 }
-.twitter_img{
-    border-radius: 50%;
-    max-width: 50%
+.about h3{
+    color: #000;
+    font-family:Tahoma;
+    font-size:25px;
+    text-align: left;
 }
